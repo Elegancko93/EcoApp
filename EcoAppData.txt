@@ -1,0 +1,10 @@
+Eco App Data:
+
+Reusable Water Bottle Usage: 2 times a week, Yearly Savings: £584.00
+Reusable Coffee Cup Usage: 4 times a week, Yearly Savings: £438.00
+Reusable Shopping Bags Usage: 2 times a week, Yearly Savings: £146.00
+Reusable Bin Bag Usage: 2 times a week, Yearly Savings: £182.50
+Reusable Sandwich Bags Usage: 5 times a week, Yearly Savings: £273.75
+
+Total Yearly Cost: £1624.25
+Total Yearly Savings by Using Reusable Options: £3375.75
