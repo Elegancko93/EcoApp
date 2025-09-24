@@ -46,6 +46,14 @@ public class EcoApp {
 
     public static void main(String[] args) {
 
+        try {
+            // Set System L&F
+            UIManager.setLookAndFeel(
+                    UIManager.getSystemLookAndFeelClassName());
+        } catch (UnsupportedLookAndFeelException | ClassNotFoundException | InstantiationException | IllegalAccessException e) {
+            // handle exception
+        }
+
         //create new JFrame
         JFrame frame = new JFrame("Eco App v1");
         //set the JFrame to contain the GUI
@@ -282,5 +290,3 @@ public class EcoApp {
             }
         });
     }}
-
-
